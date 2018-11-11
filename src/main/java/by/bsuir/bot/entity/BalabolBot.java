@@ -200,11 +200,11 @@ public class BalabolBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Balabol2000Bot";
+        return "Helper2000Bot";
     }
 
     @Override
     public String getBotToken() {
-        return "620063258:AAE3pRzKnZ23hMFWnKAoKpcooGRThtzBuNY";
+        return "657184796:AAGBcSM684dQ2xPs4Vf1GuVDMnk_sE2HhIs";
     }
 }
